@@ -1,0 +1,84 @@
+*{
+    margin:0px;
+}
+
+body{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.border{
+    border: 1px solid black;
+}
+
+.one{
+    width: 750px;
+    height:450px;
+    margin: 10px;
+}
+
+.two{
+    width:700px;
+    height:400px;
+    margin: 10px;
+
+}
+
+.three{
+    width:650px;
+    height:350px;
+    margin: 10px;
+
+}
+
+.four{
+    width: 600px;
+    height:300px;
+    margin: 10px;
+
+}
+
+.five{
+    width: 550px;
+    height: 250px;
+    margin: 10px;
+
+}
+
+.six{
+    width:500px;
+    height:200px;
+    margin: 10px;
+
+}
+
+.seven{
+    width:450px;
+    height:150px;
+    margin: 10px;
+
+}
+
+.eight{
+    width:400px;
+    height:100px;
+    margin: 10px;
+
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top:650px;
+    left:1095px;
+}
